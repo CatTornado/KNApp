@@ -1,0 +1,9 @@
+HELP.md
+.gradle
+.idea
+spring-shell.log
+build/
+log/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/

@@ -1,0 +1,12 @@
+{
+  "bpi": {
+    "2021-01-01": 24139.4648,
+    "2021-01-02": 26533.576,
+    "2021-01-03": 27001.2846
+  },
+  "disclaimer": "This data was produced from the CoinDesk Bitcoin Price Index. BPI value data returned as EUR.",
+  "time": {
+    "updated": "Jan 4, 2021 00:03:00 UTC",
+    "updatedISO": "2021-01-04T00:03:00+00:00"
+  }
+}
